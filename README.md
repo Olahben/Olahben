@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olahben
 - 👀 I’m interested in ... Coding and basketball!
-- 🌱 I’m currently learning ... Full stack Javascript
+- 🌱 I’m currently learning ... Full stack Javascript from TOP
 - 💞️ I’m looking to collaborate on ... Issues and projects
 - 📫 How to reach me ... ohagenbendixen@gmail.com
 
