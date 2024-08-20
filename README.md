@@ -1,5 +1,5 @@
 
-- 📫 How to reach me ... olaben@viken.no
+- 📫 How to reach me ... olaben@afk.no
 
 <!---
 Olahben/Olahben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
